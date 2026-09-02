@@ -11,8 +11,8 @@
 - 📝 [cybersec-notes](https://github.com/usmanfarazz/cybersec-notes) - My personal Cybersecurity notes
 
 ### Connect With Me
-- LinkedIn: [apna link dalna]
-- TryHackMe: [apna link dalna]
+- LinkedIn: [Usman Faraz](https://www.linkedin.com/in/usman-faraz-895b06289/)
+- TryHackMe: [usmanfaraz1818](https://tryhackme.com/p/usmanfaraz1818)
 
 ---
 *"Security is not a product, but a process"*
