@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey, I'm Usman 👋 
+### `XSSUsman` | Red Teamer | Penetration Tester
 
-<!--
-**usmanfarazz/usmanfarazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🔍 Focus: Web App Pentesting, Red Teaming, Bug Bounty
+- 🛠️ Tools: Nmap, Burp Suite, Metasploit, Python, Linux
+- 📚 Currently: Learning AI Security with Horquva
+- 🎯 Goal: Become a Professional Red Teamer
 
-Here are some ideas to get you started:
+### My Projects
+- 📝 [cybersec-notes](https://github.com/usmanfarazz/cybersec-notes) - My personal Cybersecurity notes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect With Me
+- LinkedIn: [apna link dalna]
+- TryHackMe: [apna link dalna]
+
+---
+*"Security is not a product, but a process"*
