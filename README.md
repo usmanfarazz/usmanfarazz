@@ -19,7 +19,7 @@
 ### 🕵️ About Me
 
 - 🔭 Focused on **Web App Pentesting, Red Teaming & Cybersecurity**
-- 🌱 Currently learning **AI Security with Horquva**
+- 🌱 Currently learning **Cyber Security with Horquva**
 - 🛡️ I break things to understand how to protect them
 - ⚡ Bug Bounty Hunter — always hunting for the next vuln
 - 💬 Ask me about **Web Pentesting, Red Teaming, Exploitation**
