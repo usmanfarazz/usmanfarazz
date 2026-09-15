@@ -236,11 +236,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usmanfarazz/usmanfarazz/output/github-contribution-grid-snake.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/usmanfarazz/usmanfarazz/output/github-contribution-grid-snake.svg" />
 </picture>
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          color_snake: white
-          color_dots: '#ebedf0,#c6e48b,#7bc96f,#239a3b,#196127'
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
