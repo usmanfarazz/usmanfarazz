@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://github.com/usmanfarazz"><img src="https://komarev.com/ghpvc/?username=usmanfarazz&label=Profile%20Views&color=B24392&style=for-the-badge" alt="Profile Views"/></a>
   <a href="https://github.com/usmanfarazz?tab=followers"><img src="https://img.shields.io/github/followers/usmanfarazz?label=Followers&style=for-the-badge&color=FF0000&logo=github" alt="Followers"/></a>
-  <a href="https://tryhackme.com/p/usmanfaraz1818"><img src="https://img.shields.io/badge/TryHackMe-usmanfaraz1818-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+  <a href="https://tryhackme.com/p/XSSUsman"><img src="https://img.shields.io/badge/TryHackMe-XSSUsman-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
   <a href="https://www.linkedin.com/in/usman-faraz-895b06289/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:usmanfaraz1818@gmail.com"><img src="https://img.shields.io/badge/Open%20to-Opportunities-2EA043?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Opportunities"/></a>
 </p>
@@ -163,22 +163,9 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
 <h3>🏴‍☠️ Practice Platforms</h3>
 
-• <a href="https://tryhackme.com/p/usmanfaraz1818"><b>TryHackMe</b></a> <img align="middle" width="20" src="https://tryhackme.com/img/favicon.png"/><br>
+• <a href="https://tryhackme.com/p/XSSUsman"><b>TryHackMe</b></a> <img align="middle" width="20" src="https://tryhackme.com/img/favicon.png"/><br>
 • **PicoCTF**<br>
 • **Cisco Networking Academy**
-
-<br>
-
-<!-- ===================================================== -->
-<!-- TRYHACKME STATS -->
-<!-- ===================================================== -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
-<h3>🚩 TryHackMe Stats</h3>
-<p>
-  <a href="https://tryhackme.com/p/usmanfaraz1818" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/usmanfaraz1818.png" alt="TryHackMe Badge"/>
-  </a>
-</p>
 
 <br>
 
@@ -202,16 +189,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=usmanfarazz&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usmanfarazz&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
-</p>
-
-<h3 align="center">📈 Contribution Graph</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usmanfarazz&theme=react-dark&hide_border=true&bg_color=0d1117&color=B24392&line=FF0000&point=ffffff" alt="Activity Graph" width="100%"/>
-</p>
-
 <br><br>
 
 <!-- ===================================================== -->
@@ -222,8 +199,15 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/usman-faraz-895b06289/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" alt="LinkedIn"/></a>
   <a href="mailto:usmanfaraz1818@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail"/></a>
-  <a href="https://tryhackme.com/p/usmanfaraz1818"><img src="https://cdn.simpleicons.org/tryhackme/C11111" width="40" alt="TryHackMe"/></a>
+  <a href="https://tryhackme.com/p/XSSUsman"><img src="https://cdn.simpleicons.org/tryhackme/C11111" width="40" alt="TryHackMe"/></a>
   <a href="https://github.com/usmanfarazz"><img src="https://img.icons8.com/fluency/48/github.png" width="40" alt="GitHub"/></a>
+</p>
+
+<p align="center">
+  📧 <a href="mailto:usmanfaraz1818@gmail.com">usmanfaraz1818@gmail.com</a><br>
+  💼 <a href="https://www.linkedin.com/in/usman-faraz-895b06289/">linkedin.com/in/usman-faraz-895b06289</a><br>
+  🚩 <a href="https://tryhackme.com/p/XSSUsman">tryhackme.com/p/XSSUsman</a><br>
+  🐙 <a href="https://github.com/usmanfarazz">github.com/usmanfarazz</a>
 </p>
 
 <br>
@@ -237,14 +221,6 @@
 </p>
 
 <br>
-
-<!-- ===================================================== -->
-<!-- CONTRIBUTION SNAKE -->
-<!-- ===================================================== -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/usmanfarazz/usmanfarazz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="center">
