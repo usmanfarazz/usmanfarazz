@@ -1,29 +1,58 @@
-   name: Generate Snake
+name: Generate Snake
 
-   on:
-     schedule:
-       - cron: "0 */12 * * *"
-     workflow_dispatch:
-     push:
-       branches: [main]
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
-   permissions:
-     contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-   jobs:
-     generate:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk@v3
-           with:
-             github_user_name: ${{ github.repository_owner }}
-             outputs: |
-               dist/github-contribution-grid-snake.svg
-               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          color_snake: white
+          color_dots: '#161b22,#0e4429,#006d32,#26a641,#39d353'
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-         - uses: crazy-max/ghaction-github-pages@v4
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Add Rainbow Animation to Snake
+        run: |
+          python3 -c "
+          import pathlib
+          for path in ['dist/github-contribution-grid-snake.svg', 'dist/github-contribution-grid-snake-dark.svg']:
+              svg = pathlib.Path(path).read_text()
+              # Inject rainbow animation style
+              style = '''<style>
+          .snk-snake { animation: rainbow 4s linear infinite; }
+          @keyframes rainbow {
+            0% { filter: hue-rotate(0deg); }
+            25% { filter: hue-rotate(90deg); }
+            50% { filter: hue-rotate(180deg); }
+            75% { filter: hue-rotate(270deg); }
+            100% { filter: hue-rotate(360deg); }
+          }
+          </style>'''
+              # The snake path has specific class, we add animation to whole svg if class not found
+              if '<style>' not in svg:
+                  svg = svg.replace('<svg', style + '<svg', 1)
+              else:
+                  svg = svg.replace('<style>', style + '<style>')
+              # Also try to target path directly
+              svg = svg.replace('class=\"snk-snake\"', 'class=\"snk-snake\" style=\"animation: rainbow 4s linear infinite;\"')
+              pathlib.Path(path).write_text(svg)
+          "
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
