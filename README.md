@@ -10,11 +10,11 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=FF0000&vCenter=true&height=35&width=650&lines=Student+Developer;Aspiring+Software+Engineer;Learning+by+Building;Open+Source+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=FF0000&vCenter=true&height=35&width=650&lines=Cybersecurity+Student;Aspiring+Red+Team+Operator;CTF+Player+%7C+Security+Researcher;Linux+User+%7C+Offensive+Security"/>
 </div>
 
 <h3 align="center">
-| Student Developer | Tech Enthusiast | Future Software Engineer |
+| Cybersecurity Student | Offensive Security Enthusiast | Future Red Teamer |
 </h3>
 
 <br>
@@ -25,23 +25,23 @@
 <img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RncHVieGQ3OTFpeGh5YXFuNmJ0cG1qMmhmZGJ3ZnJ1Zmlsa2lzcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0IyeheChYxx2byDu/giphy.gif"/>
 <h3>🧠 About Me</h3>
 
-• 🎓 **Student** passionate about software development<br>
+• 🎓 Studying **Cybersecurity**<br>
 
-• 💻 Learning **Python, Web Development & Problem Solving**<br>
+• ⚔️ Focused on **Red Teaming & Offensive Security**<br>
 
-• 🧪 Building **small projects** to sharpen my skills<br>
+• 🧪 Practicing through **CTF challenges and security labs**<br>
 
-• 🤝 Open to **collaboration & open-source**<br>
+• 🐧 Main environment: **Ubuntu Linux**<br>
 
-• 🎯 Goal: **Professional Software Engineer**
+• 🎯 Goal: **Professional Red Team Operator**
 
 <br>
 
 <!-- ===================================================== -->
-<!-- PROGRAMMING -->
+<!-- PROGRAMMING & SCRIPTING -->
 <!-- ===================================================== -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
-<h3>💻 Programming Languages</h3>
+<h3>💻 Programming & Scripting</h3>
 <p>
   <a href="https://www.w3schools.com/c/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
@@ -49,25 +49,29 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
   </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/>
+  </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
   </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
+  <a href="https://www.w3schools.com/bash/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="45"/>
   </a>
 </p>
 
 <br>
 
 <!-- ===================================================== -->
-<!-- WEB DEVELOPMENT -->
+<!-- WEB DEVELOPMENT & FRONTEND -->
 <!-- ===================================================== -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
 <h3>🌐 Web Development & Frontend</h3>
 <p>
+  <!-- Core Web -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
   </a>
@@ -77,14 +81,15 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
   </a>
+  <!-- Frontend -->
   <a href="https://react.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
   </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
-  </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45"/>
+  </a>
+  <a href="https://xtermjs.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/terminal" width="45" alt="xterm.js"/>
   </a>
 </p>
 
@@ -99,66 +104,108 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
   </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
   </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45"/>
+  <a href="https://www.oracle.com/database/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45"/>
   </a>
 </p>
 
 <br>
 
 <!-- ===================================================== -->
-<!-- TOOLS -->
+<!-- AI & LLM FRAMEWORKS -->
 <!-- ===================================================== -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
-<h3>🛠️ Tools & Platforms</h3>
+<h3>🤖 AI & LLM Frameworks</h3>
 <p>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <a href="https://python.langchain.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/langchain" width="45" alt="LangChain"/>
   </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://cdn.simpleicons.org/huggingface/FF9A00" width="45" alt="Hugging Face"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45"/>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45"/>
   </a>
 </p>
 
 <br>
 
 <!-- ===================================================== -->
-<!-- PROJECTS -->
+<!-- RED TEAM TOOLKIT -->
 <!-- ===================================================== -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
-<h3>🚀 Featured Projects</h3>
-
-• **[Project One](https://github.com/usmanfarazz/project-one)** — Short description of the project<br>
-
-• **[Project Two](https://github.com/usmanfarazz/project-two)** — Short description of the project<br>
-
-• **[Project Three](https://github.com/usmanfarazz/project-three)** — Short description of the project
+<h3>🛠️ Red Team Toolkit</h3>
+<p>
+  <a href="https://nmap.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://nmap.org/images/nmap-logo-64px.png" width="45" alt="Nmap"/>
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45" alt="Wireshark"/>
+  </a>
+  <a href="https://portswigger.net/burp" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="45" alt="Burp Suite"/>
+  </a>
+  <a href="https://www.metasploit.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/metasploit/3F56A7" width="45" alt="Metasploit"/>
+  </a>
+  <a href="https://github.com/OJ/gobuster" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/228BE6/ghost.png" width="45" alt="Gobuster"/>
+  </a>
+  <a href="https://hashcat.net/hashcat/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/hashcat/FF9900" width="45" alt="Hashcat"/>
+  </a>
+  <img src="https://img.icons8.com/color/48/password.png" width="45" alt="Password"/>
+  <img src="https://img.icons8.com/color/48/privacy.png" width="45" alt="Security"/>
+</p>
 
 <br>
 
 <!-- ===================================================== -->
-<!-- LEARNING -->
+<!-- PRACTICE PLATFORMS -->
 <!-- ===================================================== -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
-<h3>📚 Currently Learning</h3>
 
-• **Data Structures & Algorithms**<br>
+<h3>🏴‍☠️ Practice Platforms</h3>
 
-• **Full-Stack Web Development**<br>
+• **TryHackMe** (Premium) <img align="middle" width="20" src="https://tryhackme.com/img/favicon.png"/><br>
 
-• **Git & Open Source Contribution**
+• **PicoCTF**<br>
+
+• **Cisco Networking Academy**
+
+<br>
+
+<!-- ===================================================== -->
+<!-- TRYHACKME STATS -->
+<!-- ===================================================== -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
+<h3>🚩 TryHackMe Stats</h3>
+<p>
+  <a href="https://tryhackme.com/p/usmanfarazz" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/usmanfarazz.png" alt="TryHackMe Badge"/>
+  </a>
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+<!-- SECURITY WRITEUPS -->
+<!-- ===================================================== -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
+
+<h3>📝 Security Writeups</h3>
+
+I document labs, CTF solutions, and offensive security research.<br>
+
+📚 Read them here:<br>
+
+➡️ <a href="https://medium.com/@YOUR_MEDIUM">https://medium.com/@YOUR_MEDIUM</a>
 
 <br>
 
@@ -192,6 +239,9 @@
   </a>
   <a href="mailto:usmanfaraz1818@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+  </a>
+  <a href="https://medium.com/@YOUR_MEDIUM">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" width="40"/>
   </a>
   <a href="https://github.com/usmanfarazz">
     <img src="https://img.icons8.com/fluency/48/github.png" width="40"/>
