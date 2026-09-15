@@ -1,3 +1,6 @@
+<!-- ===================================================== -->
+<!-- HEADER -->
+<!-- ===================================================== -->
 <div align="center">
    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/>
 </div>
@@ -7,67 +10,101 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=FF0000&vCenter=true&height=35&width=650&lines=Cybersecurity+Student;Aspiring+Red+Team+Operator;CTF+Player+%7C+Security+Researcher;Linux+User+%7C+Offensive+Security"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=FF0000&center=true&vCenter=true&height=35&width=650&lines=Cybersecurity+Student;Aspiring+Red+Team+Operator;CTF+Player+%7C+Security+Researcher;Linux+User+%7C+Offensive+Security"/>
 </div>
 
-<h3 align="center">| Cybersecurity Student | Offensive Security Enthusiast | Future Red Teamer |</h3>
+<h3 align="center">
+| Cybersecurity Student @ PAF-IAST | Offensive Security Enthusiast | Future Red Teamer |
+</h3>
 
 <p align="center">
-  <a href="https://github.com/usmanfarazz"><img src="https://komarev.com/ghpvc/?username=usmanfarazz&label=Profile%20Views&color=B24392&style=for-the-badge"/></a>
-  <a href="https://github.com/usmanfarazz?tab=followers"><img src="https://img.shields.io/github/followers/usmanfarazz?label=Followers&style=for-the-badge&color=FF0000&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/usman-faraz-895b06289/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:usmanfaraz1818@gmail.com"><img src="https://img.shields.io/badge/Open%20to-Opportunities-2EA043?style=for-the-badge&logo=handshake&logoColor=white"/></a>
+  <a href="https://github.com/usmanfarazz"><img src="https://komarev.com/ghpvc/?username=usmanfarazz&label=Profile%20Views&color=B24392&style=for-the-badge" alt="Profile Views"/></a>
+  <a href="https://github.com/usmanfarazz?tab=followers"><img src="https://img.shields.io/github/followers/usmanfarazz?label=Followers&style=for-the-badge&color=FF0000&logo=github" alt="Followers"/></a>
+  <a href="https://tryhackme.com/p/usmanfaraz1818"><img src="https://img.shields.io/badge/TryHackMe-usmanfaraz1818-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+  <a href="https://www.linkedin.com/in/usman-faraz-895b06289/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:usmanfaraz1818@gmail.com"><img src="https://img.shields.io/badge/Open%20to-Opportunities-2EA043?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Opportunities"/></a>
 </p>
 
 <br>
 
+<!-- ===================================================== -->
+<!-- ABOUT ME -->
+<!-- ===================================================== -->
 <img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RncHVieGQ3OTFpeGh5YXFuNmJ0cG1qMmhmZGJ3ZnJ1Zmlsa2lzcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0IyeheChYxx2byDu/giphy.gif"/>
 <h3>🧠 About Me</h3>
-• 🎓 Studying <b>Cybersecurity @ PAF-IAST</b><br>
-• ⚔️ Focused on <b>Red Teaming & Offensive Security</b><br>
-• 🧪 Practicing through <b>CTF challenges and security labs</b><br>
-• 🐧 Main environment: <b>Kali Linux / Ubuntu</b><br>
-• 🎯 Goal: <b>Professional Red Team Operator</b>
+
+• 🎓 Studying **Cybersecurity @ PAF-IAST**<br>
+• ⚔️ Focused on **Red Teaming & Offensive Security**<br>
+• 🧪 Practicing through **CTF challenges and security labs**<br>
+• 🐧 Main environment: **Kali Linux / Ubuntu**<br>
+• 🎯 Goal: **Professional Red Team Operator**
+
 <br clear="right">
 
 ```bash
 ┌──(usmanfarazz㉿kali)-[~]
 └─$ whoami --verbose
-  name : Usman Faraz
-  role : Cybersecurity Student | Aspiring Red Teamer
-  location : Pakistan 🇵🇰
-  focus : [ "Offensive Security", "Web App Pentesting", "Network Security" ]
-  learning : [ "Active Directory Attacks", "Exploit Development", "Malware Analysis" ]
-  mindset : "Think like an attacker, defend like an engineer."
 
+  name      : Usman Faraz
+  role      : Cybersecurity Student | Aspiring Red Teamer
+  location  : Pakistan 🇵🇰
+  focus     : [ "Offensive Security", "Web App Pentesting", "Network Security" ]
+  learning  : [ "Active Directory Attacks", "Exploit Development", "Malware Analysis" ]
+  mindset   : "Think like an attacker, defend like an engineer."
+  status    : Open to internships & collaborations ✅
+```
 
 <br>
 
-<img src="{{IE_0}}https://i.imgur.com/dBaSKWF.gif{{/IE_0}}" height="20" width="36%">
+<!-- ===================================================== -->
+<!-- PROGRAMMING & SCRIPTING -->
+<!-- ===================================================== -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
 <h3>💻 Programming & Scripting</h3>
 <p>
-  <img src="{{IE_1}}https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg{{/IE_1}}" width="45"/>
-  <img src="{{IE_2}}https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg{{/IE_2}}" width="45"/>
-  <img src="{{IE_3}}https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg{{/IE_3}}" width="45"/>
-  <img src="{{IE_4}}https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg{{/IE_4}}" width="40"/>
-  <img src="{{IE_5}}https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg{{/IE_5}}" width="45"/>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" alt="Bash"/></a>
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="45" alt="PowerShell"/></a>
+  <a href="https://www.w3schools.com/c/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/></a>
 </p>
 
 <br>
 
-<img src="{{IE_6}}https://i.imgur.com/dBaSKWF.gif{{/IE_6}}" height="20" width="36%">
+<!-- ===================================================== -->
+<!-- OPERATING SYSTEMS -->
+<!-- ===================================================== -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
+<h3>🖥️ Operating Systems</h3>
+<p>
+  <a href="https://www.kali.org/" target="_blank"><img src="https://cdn.simpleicons.org/kalilinux/557C94" width="45" alt="Kali Linux"/></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="45" alt="Ubuntu"/></a>
+  <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" width="45" alt="Windows"/></a>
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+<!-- RED TEAM TOOLKIT -->
+<!-- ===================================================== -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
 <h3>🛠️ Red Team Toolkit</h3>
 <p>
-  <img src="{{IE_7}}https://nmap.org/images/nmap-logo-64px.png{{/IE_7}}" width="45" alt="Nmap"/>
-  <img src="{{IE_8}}https://cdn.simpleicons.org/wireshark/1679A7{{/IE_8}}" width="45" alt="Wireshark"/>
-  <img src="{{IE_9}}https://cdn.simpleicons.org/burpsuite/FF6633{{/IE_9}}" width="45" alt="Burp Suite"/>
-  <img src="{{IE_10}}https://cdn.simpleicons.org/metasploit/3F56A7{{/IE_10}}" width="45" alt="Metasploit"/>
-  <img src="{{IE_11}}https://cdn.simpleicons.org/hashcat/FF9900{{/IE_11}}" width="45" alt="Hashcat"/>
+  <a href="https://nmap.org/" target="_blank"><img src="https://nmap.org/images/nmap-logo-64px.png" width="45" alt="Nmap"/></a>
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45" alt="Wireshark"/></a>
+  <a href="https://portswigger.net/burp" target="_blank"><img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="45" alt="Burp Suite"/></a>
+  <a href="https://www.metasploit.com/" target="_blank"><img src="https://cdn.simpleicons.org/metasploit/3F56A7" width="45" alt="Metasploit"/></a>
+  <a href="https://github.com/OJ/gobuster" target="_blank"><img src="https://img.icons8.com/ios-filled/50/228BE6/ghost.png" width="45" alt="Gobuster"/></a>
+  <a href="https://hashcat.net/hashcat/" target="_blank"><img src="https://cdn.simpleicons.org/hashcat/FF9900" width="45" alt="Hashcat"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" alt="Git"/></a>
 </p>
 
 <br>
 
-<img src="{{IE_12}}https://i.imgur.com/dBaSKWF.gif{{/IE_12}}" height="20" width="36%">
+<!-- ===================================================== -->
+<!-- AREAS OF FOCUS -->
+<!-- ===================================================== -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
 <h3>🎯 Areas of Focus</h3>
 <table>
   <tr>
@@ -80,68 +117,136 @@
 
 <br>
 
-<img src="{{IE_13}}https://i.imgur.com/dBaSKWF.gif{{/IE_13}}" height="20" width="36%">
+<!-- ===================================================== -->
+<!-- FEATURED PROJECTS -->
+<!-- ===================================================== -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
 <h3>🚀 Featured Projects</h3>
 <table>
-  <tr><th>Project</th><th>Description</th><th>Tech Stack</th></tr>
   <tr>
-    <td><a href="{{IE_14}}https://github.com/usmanfarazz/port-scanner{{/IE_14}}"><b>🔍 Port Scanner</b></a></td>
-    <td>Multi-threaded network port scanner with service detection</td>
-    <td><img src="{{IE_15}}https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white{{/IE_15}}"/></td>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
   </tr>
   <tr>
-    <td><a href="{{IE_16}}https://github.com/usmanfarazz/password-analyzer{{/IE_16}}"><b>🔐 Password Analyzer</b></a></td>
+    <td><a href="https://github.com/usmanfarazz/port-scanner"><b>🔍 Port Scanner</b></a></td>
+    <td>Multi-threaded network port scanner with service detection</td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/usmanfarazz/password-analyzer"><b>🔐 Password Analyzer</b></a></td>
     <td>Checks password strength and hash cracking resistance</td>
-    <td><img src="{{IE_17}}https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white{{/IE_17}}"/></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/></td>
   </tr>
 </table>
 
 <br>
 
-<img src="{{IE_18}}https://i.imgur.com/dBaSKWF.gif{{/IE_18}}" height="20" width="36%">
+<!-- ===================================================== -->
+<!-- ROADMAP -->
+<!-- ===================================================== -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
 <h3>🗺️ 2026 Roadmap</h3>
 
-Linux fundamentals & Bash scriptingNetworking basics (TCP/IP, OSI, Wireshark)Complete TryHackMe Jr Penetration Tester pathSolve 50+ CTF challenges on PicoCTFEarn eJPT certificationStart preparing for OSCP[x]<br>
+- [x] Linux fundamentals & Bash scripting
+- [x] Networking basics (TCP/IP, OSI, Wireshark)
+- [ ] Complete TryHackMe **Jr Penetration Tester** path
+- [ ] Solve 50+ CTF challenges on PicoCTF
+- [ ] Earn **eJPT** certification
+- [ ] Start preparing for **OSCP**
 
-<img src="{{IE_19}}https://i.imgur.com/dBaSKWF.gif{{/IE_19}}" height="20" width="36%">
+<br>
+
+<!-- ===================================================== -->
+<!-- PRACTICE PLATFORMS -->
+<!-- ===================================================== -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
 <h3>🏴‍☠️ Practice Platforms</h3>
 
-TryHackMe (Premium) <img align="middle" width="20" src="{{IE_20}}https://tryhackme.com/img/favicon.png{{/IE_20}}"/><br>PicoCTF<br>Cisco Networking Academy<br>
+• <a href="https://tryhackme.com/p/usmanfaraz1818"><b>TryHackMe</b></a> <img align="middle" width="20" src="https://tryhackme.com/img/favicon.png"/><br>
+• **PicoCTF**<br>
+• **Cisco Networking Academy**
 
-<img src="{{IE_21}}https://i.imgur.com/dBaSKWF.gif{{/IE_21}}" height="20" width="36%">
+<br>
+
+<!-- ===================================================== -->
+<!-- TRYHACKME STATS -->
+<!-- ===================================================== -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
 <h3>🚩 TryHackMe Stats</h3>
 <p>
-  <a href="{{IE_22}}https://tryhackme.com/p/usmanfarazz{{/IE_22}}" target="_blank">
-    <img src="{{IE_23}}https://tryhackme-badges.s3.amazonaws.com/usmanfarazz.png{{/IE_23}}" alt="TryHackMe Badge"/>
+  <a href="https://tryhackme.com/p/usmanfaraz1818" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/usmanfaraz1818.png" alt="TryHackMe Badge"/>
   </a>
 </p>
 
 <br>
 
-<img src="{{IE_24}}https://i.imgur.com/dBaSKWF.gif{{/IE_24}}" height="20" width="36%">
+<!-- ===================================================== -->
+<!-- GITHUB STATISTICS -->
+<!-- ===================================================== -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
 <h3>📊 GitHub Statistics</h3>
-<img align="right" width="300" src="{{IE_25}}https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif{{/IE_25}}"/>
-<p><img src="{{IE_26}}https://github-readme-stats-fast.vercel.app/api?username=usmanfarazz&show_icons=true&theme=radical&hide_border=true&count_private=true{{/IE_26}}" height="165"/></p>
-<p><img src="{{IE_27}}https://github-readme-stats-fast.vercel.app/api/top-langs?username=usmanfarazz&layout=compact&theme=radical&hide_border=true{{/IE_27}}" height="165"/></p>
-<br clear="right">
-<p align="center"><img src="{{IE_28}}https://github-readme-streak-stats.herokuapp.com?user=usmanfarazz&theme=radical&hide_border=true{{/IE_28}}"/></p>
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center"><img src="{{IE_29}}https://github-profile-trophy.vercel.app/?username=usmanfarazz&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1{{/IE_29}}"/></p>
-<h3 align="center">📈 Contribution Graph</h3>
-<p align="center"><img src="{{IE_30}}https://github-readme-activity-graph.vercel.app/graph?username=usmanfarazz&theme=react-dark&hide_border=true&bg_color=0d1117&color=B24392&line=FF0000&point=ffffff{{/IE_30}}" width="100%"/></p>
+<img align="right" width="300" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif"/>
 
-<br><br><img src="{{IE_31}}https://i.imgur.com/dBaSKWF.gif{{/IE_31}}" height="20" width="75%">
+<p>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=usmanfarazz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+</p>
+<p>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=usmanfarazz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<br clear="right">
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=usmanfarazz&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=usmanfarazz&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
+</p>
+
+<h3 align="center">📈 Contribution Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usmanfarazz&theme=react-dark&hide_border=true&bg_color=0d1117&color=B24392&line=FF0000&point=ffffff" alt="Activity Graph" width="100%"/>
+</p>
+
+<br><br>
+
+<!-- ===================================================== -->
+<!-- CONTACT -->
+<!-- ===================================================== -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="75%">
 <h3 align="center">📡 Connect With Me</h3>
 <p align="center">
-  <a href="{{IE_32}}https://www.linkedin.com/in/usman-faraz-895b06289/{{/IE_32}}"><img src="{{IE_33}}https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg{{/IE_33}}" width="40"/></a>
-  <a href="mailto:usmanfaraz1818@gmail.com"><img src="{{IE_34}}https://img.icons8.com/color/48/gmail-new.png{{/IE_34}}" width="40"/></a>
-  <a href="{{IE_35}}https://github.com/usmanfarazz{{/IE_35}}"><img src="{{IE_36}}https://img.icons8.com/fluency/48/github.png{{/IE_36}}" width="40"/></a>
+  <a href="https://www.linkedin.com/in/usman-faraz-895b06289/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" alt="LinkedIn"/></a>
+  <a href="mailto:usmanfaraz1818@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Gmail"/></a>
+  <a href="https://tryhackme.com/p/usmanfaraz1818"><img src="https://cdn.simpleicons.org/tryhackme/C11111" width="40" alt="TryHackMe"/></a>
+  <a href="https://github.com/usmanfarazz"><img src="https://img.icons8.com/fluency/48/github.png" width="40" alt="GitHub"/></a>
 </p>
 
 <br>
-<p align="center"><i>"The quieter you become, the more you are able to hear."</i><br><sub>— Hacker's Motto</sub></p>
+
+<!-- ===================================================== -->
+<!-- QUOTE -->
+<!-- ===================================================== -->
+<p align="center">
+  <i>"The quieter you become, the more you are able to hear."</i><br>
+  <sub>— Hacker's Motto</sub>
+</p>
+
 <br>
 
-<img src="{{IE_37}}https://i.imgur.com/dBaSKWF.gif{{/IE_37}}" height="20" width="100%">
-<p align="center"><img src="{{IE_38}}https://raw.githubusercontent.com/usmanfarazz/usmanfarazz/output/github-contribution-grid-snake-dark.svg{{/IE_38}}"/></p>
-<p align="center"><img src="{{IE_39}}https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg{{/IE_39}}"/></p>
+<!-- ===================================================== -->
+<!-- CONTRIBUTION SNAKE -->
+<!-- ===================================================== -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/usmanfarazz/usmanfarazz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
+</p>
