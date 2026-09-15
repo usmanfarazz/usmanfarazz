@@ -17,6 +17,13 @@
 | Cybersecurity Student | Offensive Security Enthusiast | Future Red Teamer |
 </h3>
 
+<p align="center">
+  <a href="https://github.com/usmanfarazz"><img src="https://komarev.com/ghpvc/?username=usmanfarazz&label=Profile%20Views&color=B24392&style=for-the-badge" alt="Profile Views"/></a>
+  <a href="https://github.com/usmanfarazz?tab=followers"><img src="https://img.shields.io/github/followers/usmanfarazz?label=Followers&style=for-the-badge&color=FF0000&logo=github" alt="Followers"/></a>
+  <a href="https://www.linkedin.com/in/usman-faraz-895b06289/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:usmanfaraz1818@gmail.com"><img src="https://img.shields.io/badge/Open%20to-Opportunities-2EA043?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Opportunities"/></a>
+</p>
+
 <br>
 
 <!-- ===================================================== -->
@@ -34,6 +41,21 @@
 • 🐧 Main environment: **Ubuntu Linux**<br>
 
 • 🎯 Goal: **Professional Red Team Operator**
+
+<br clear="right">
+
+```bash
+┌──(usmanfarazz㉿kali)-[~]
+└─$ whoami --verbose
+
+  name        : Usman Faraz
+  role        : Cybersecurity Student | Aspiring Red Teamer
+  location    : Pakistan 🇵🇰
+  focus       : [ "Offensive Security", "Web App Pentesting", "Network Security" ]
+  learning    : [ "Active Directory Attacks", "Exploit Development", "Malware Analysis" ]
+  mindset     : "Think like an attacker, defend like an engineer."
+  status      : Open to internships & collaborations ✅
+```
 
 <br>
 
@@ -167,6 +189,69 @@
 <br>
 
 <!-- ===================================================== -->
+<!-- AREAS OF FOCUS -->
+<!-- ===================================================== -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
+<h3>🎯 Areas of Focus</h3>
+
+<table>
+  <tr>
+    <td align="center" width="25%">🌐<br><b>Web App Pentesting</b><br><sub>OWASP Top 10, Burp Suite</sub></td>
+    <td align="center" width="25%">🖧<br><b>Network Security</b><br><sub>Recon, Scanning, Traffic Analysis</sub></td>
+    <td align="center" width="25%">⚔️<br><b>Red Teaming</b><br><sub>Exploitation, Privilege Escalation</sub></td>
+    <td align="center" width="25%">🤖<br><b>AI + Security</b><br><sub>LLM Apps, Automation Tools</sub></td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ===================================================== -->
+<!-- FEATURED PROJECTS -->
+<!-- ===================================================== -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
+<h3>🚀 Featured Projects</h3>
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/usmanfarazz/port-scanner"><b>🔍 Port Scanner</b></a></td>
+    <td>Multi-threaded network port scanner with service detection</td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/usmanfarazz/password-analyzer"><b>🔐 Password Analyzer</b></a></td>
+    <td>Checks password strength and hash cracking resistance</td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/usmanfarazz/web-terminal"><b>💻 Web Terminal Portfolio</b></a></td>
+    <td>Interactive terminal-style personal portfolio</td>
+    <td><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ===================================================== -->
+<!-- ROADMAP -->
+<!-- ===================================================== -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
+<h3>🗺️ 2026 Roadmap</h3>
+
+- [x] Linux fundamentals & Bash scripting
+- [x] Networking basics (TCP/IP, OSI, Wireshark)
+- [ ] Complete TryHackMe **Jr Penetration Tester** path
+- [ ] Solve 50+ CTF challenges on PicoCTF
+- [ ] Earn **eJPT** certification
+- [ ] Start preparing for **OSCP**
+
+<br>
+
+<!-- ===================================================== -->
 <!-- PRACTICE PLATFORMS -->
 <!-- ===================================================== -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
@@ -214,16 +299,29 @@ I document labs, CTF solutions, and offensive security research.<br>
 <!-- ===================================================== -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="36%">
 <h3>📊 GitHub Statistics</h3>
-<img align="right" width="340" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif"/>
 
 <p>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=usmanfarazz&show_icons=true&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=usmanfarazz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 </p>
 <p>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=usmanfarazz&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=usmanfarazz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=usmanfarazz&theme=radical" alt="GitHub Streak"/>
+
+<br clear="right">
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=usmanfarazz&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=usmanfarazz&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
+</p>
+
+<h3 align="center">📈 Contribution Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usmanfarazz&theme=react-dark&hide_border=true&bg_color=0d1117&color=B24392&line=FF0000&point=ffffff" alt="Activity Graph" width="100%"/>
 </p>
 
 <br><br>
@@ -246,6 +344,16 @@ I document labs, CTF solutions, and offensive security research.<br>
   <a href="https://github.com/usmanfarazz">
     <img src="https://img.icons8.com/fluency/48/github.png" width="40"/>
   </a>
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+<!-- QUOTE -->
+<!-- ===================================================== -->
+<p align="center">
+  <i>"The quieter you become, the more you are able to hear."</i><br>
+  <sub>— Hacker's Motto</sub>
 </p>
 
 <br>
