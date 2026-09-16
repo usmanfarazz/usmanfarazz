@@ -174,7 +174,7 @@ I'm **Usman Faraz**, a Cybersecurity student at **PAF-IAST**, Pakistan, focused 
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=usmanfarazz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=usmanfarazz&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=usmanfarazz&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=8&cache_seconds=0" alt="Top Languages"/>
   <br/>
   <img src="https://streak-stats.demolab.com?user=usmanfarazz&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
