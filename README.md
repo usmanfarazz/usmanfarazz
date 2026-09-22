@@ -39,7 +39,7 @@ I'm **Usman Faraz**, a Cybersecurity student at **PAF-IAST**, Pakistan, focused 
   focus     : [ "Offensive Security", "Web App Pentesting", "Network Security" ]
   learning  : [ "Active Directory Attacks", "Exploit Development", "Malware Analysis" ]
   mindset   : "Think like an attacker, defend like an engineer."
-  status   : Open to internships & collaborations ✅
+  status    : Open to internships & collaborations ✅
 ```
 
 ---
