@@ -1,4 +1,4 @@
-<!-- ===================== HEADER ===================== -->
+ <!-- ===================== HEADER ===================== -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6A1B9A,100:B24392&section=header&text=Usman%20Faraz&fontColor=FFFFFF&fontSize=40&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Offensive%20Security&descAlignY=62&descSize=16"/>
