@@ -118,6 +118,11 @@ I'm **Usman Faraz**, a Cybersecurity student at **PAF-IAST**, Pakistan, focused 
     <th align="left">Stack</th>
   </tr>
   <tr>
+    <td><a href="https://github.com/usmanfarazz/securevault"><b>🗝️ SecureVault</b></a></td>
+    <td>Offline encrypted password manager (AES-256-GCM + PBKDF2, Web Crypto) · installable PWA · <a href="https://usmanfarazz.github.io/securevault/">Live demo</a></td>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/usmanfarazz/port-scanner"><b>🔍 Port Scanner</b></a></td>
     <td>Multi-threaded TCP port scanner with service detection & banner grabbing</td>
     <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
