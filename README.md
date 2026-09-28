@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Open%20to-Internships-2EA043?style=for-the-badge" alt="Open to Internships"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=usmanfarazz&label=Profile%20Views&color=B24392&style=flat-square" alt="Profile Views"/>
+<img src="https://api.visitorbadge.io/api/visitors?path=usmanfarazz&label=Profile%20Views&labelColor=%23555555&countColor=%23B24392&style=flat-square" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/usmanfarazz?label=Followers&style=flat-square&color=B24392&logo=github" alt="Followers"/>
 
 </div>
