@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=B24392&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%40+PAF-IAST;Aspiring+Red+Team+Operator;CTF+Player+%7C+Security+Researcher;Think+like+an+attacker%2C+defend+like+an+engineer." alt="Typing SVG"/>
 
 <p>
-  <a href="https://www.linkedin.com/in/usman-faraz-895b06289/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/usman-farazz/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://tryhackme.com/p/XSSUsman"><img src="https://img.shields.io/badge/TryHackMe-XSSUsman-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
   <a href="mailto:usmanfaraz1818@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Open%20to-Internships-2EA043?style=for-the-badge" alt="Open to Internships"/>
@@ -205,7 +205,7 @@ I'm **Usman Faraz**, a Cybersecurity student at **PAF-IAST**, Pakistan, focused 
 
 <p>
   <a href="mailto:usmanfaraz1818@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/usman-faraz-895b06289/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/usman-farazz/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/></a>&nbsp;&nbsp;
   <a href="https://tryhackme.com/p/XSSUsman" title="TryHackMe"><img src="https://img.shields.io/badge/-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" height="48" alt="TryHackMe"/></a>&nbsp;&nbsp;
   <a href="https://github.com/usmanfarazz" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>
 </p>
