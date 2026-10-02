@@ -142,6 +142,11 @@ I'm **Usman Faraz**, a Cybersecurity student at **PAF-IAST**, Pakistan, focused 
     <td>Personal knowledge base for cybersecurity and penetration testing</td>
     <td><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/usmanfarazz/OBA-Core-Horquva"><b>🤖 OBA Core – Horquva</b></a></td>
+    <td>AI Workforce Intelligence Engine (MVP) · <a href="https://oba-core-horquva-flax.vercel.app">Live demo</a></td>
+    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></td>
+  </tr>
 </table>
 
 ---
