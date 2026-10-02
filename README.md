@@ -118,9 +118,9 @@ I'm **Usman Faraz**, a Cybersecurity student at **PAF-IAST**, Pakistan, focused 
     <th align="left">Stack</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/usmanfarazz/securevault"><b>🗝️ SecureVault</b></a></td>
-    <td>Offline encrypted password manager (AES-256-GCM + PBKDF2, Web Crypto) · installable PWA · <a href="https://usmanfarazz.github.io/securevault/">Live demo</a></td>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></td>
+    <td><a href="https://github.com/usmanfarazz/kryvo"><b>🔐 Kryvo</b></a></td>
+    <td>Offline encrypted Android vault for photos, videos, audio, passwords &amp; notes — disguise icons, App Lock, intruder selfie, fake PIN (AES-256-GCM, no internet permission) · <a href="https://usmanfarazz.github.io/kryvo/">Live demo</a></td>
+    <td><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/usmanfarazz/port-scanner"><b>🔍 Port Scanner</b></a></td>
@@ -141,11 +141,6 @@ I'm **Usman Faraz**, a Cybersecurity student at **PAF-IAST**, Pakistan, focused 
     <td><a href="https://github.com/usmanfarazz/cybersec-notes"><b>📒 Cybersec Notes</b></a></td>
     <td>Personal knowledge base for cybersecurity and penetration testing</td>
     <td><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/usmanfarazz/OBA-Core-Horquva"><b>🤖 OBA Core – Horquva</b></a></td>
-    <td>AI Workforce Intelligence Engine (MVP) · <a href="https://oba-core-horquva-flax.vercel.app">Live demo</a></td>
-    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></td>
   </tr>
 </table>
 
