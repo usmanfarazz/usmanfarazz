@@ -123,6 +123,11 @@ I'm **Usman Faraz**, a Cybersecurity student at **PAF-IAST**, Pakistan, focused 
     <td><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/usmanfarazz/shieldpal"><b>🐾 ShieldPal</b></a></td>
+    <td>Your cute cyber guardian: scam link, message &amp; QR checker, Live Guard, Deep Scan, Shield VPN and Pal AI with a pet that gets sick when your phone is unsafe — offline-first, no ads, no tracking, 14 languages · <a href="https://usmanfarazz.github.io/shieldpal/">Live demo</a></td>
+    <td><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/usmanfarazz/port-scanner"><b>🔍 Port Scanner</b></a></td>
     <td>Multi-threaded TCP port scanner with service detection & banner grabbing</td>
     <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
